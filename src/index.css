@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'WandohopeB';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10@1.0/WandohopeB.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+*{
+    font-family:"WandohopeB" ;
+}
+
+body{
+    margin:0;
+    background-color:#3399cc;
+    
+}
+
+#root{
+    justify-content:center;
+    text-align: center;
+}
